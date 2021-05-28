@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
+# CIT Minor Portfolio 
 
-You can use the [editor on GitHub](https://github.com/pozawa1/pozawa1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## CIT 281: Web Development I
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
+- Project 6
+- Project 7
+- Lab 1
+- Lab 2
+- Lab 3
+- Lab 4
+- Lab 5
+- Lab 6
+- Lab 7
+- Lab 8
+- Lab 9
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
