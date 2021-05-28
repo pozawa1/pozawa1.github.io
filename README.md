@@ -1,7 +1,7 @@
 # CIT Minor Portfolio 
 
 ## CIT 281: Web Development I
-- Project 1
+- [Project 1](https://pozawa1.github.io/cit281-p1/)
 - Project 2
 - Project 3
 - Project 4
